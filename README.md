@@ -1,7 +1,7 @@
 # hospital
 
 > A Vue.js project
->医院信息管理系统前端页面
+一个简单的医院信息管理系统前端页面
 
 ## Build Setup
 
